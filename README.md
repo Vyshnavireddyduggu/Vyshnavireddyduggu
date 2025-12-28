@@ -1,66 +1,76 @@
-👋 Hi, I'm Vyshnavi Reddy
+## 👋 Hi, I'm Vyshnavi Reddy
 
-🎓 B.Tech Student | CMR Engineering and Technology College
-💻 Aspiring Software Engineer | Web Developer | IoT Enthusiast
+🎓 **B.Tech Student | CMR Engineering and Technology College**  
+💻 **Aspiring Software Engineer | Web Developer | IoT Enthusiast**
 
-🚀 About Me
+---
 
-I’m a motivated and passionate engineering student with a strong foundation in programming and problem-solving. I love combining software and hardware to create innovative, real-world solutions. My current interests include web development, Internet of Things (IoT), and data-driven applications.
+## 🚀 About Me
 
-I value teamwork, creativity, and learning — and I’m constantly exploring new tools, frameworks, and ideas to grow as a developer.
+I’m a motivated and passionate engineering student with a strong foundation in programming and problem-solving. I enjoy combining **software and hardware** to create innovative, real-world solutions.
 
-🛠️ Skills
+My current interests include **web development**, **Internet of Things (IoT)**, and **data-driven applications**. I value teamwork, creativity, and continuous learning, and I’m always exploring new tools, frameworks, and technologies to grow as a developer.
 
-Languages:
+---
 
-Python, C, HTML, CSS, JavaScript
+## 🛠️ Skills
 
-Frameworks & Tools:
+### 🔹 Languages
+- Python  
+- C  
+- HTML  
+- CSS  
+- JavaScript  
 
-Firebase, Streamlit, ESP32/ESP8266, Git, VS Code
+### 🔹 Frameworks & Tools
+- Firebase  
+- Streamlit  
+- ESP32 / ESP8266  
+- Git  
+- VS Code  
 
-Areas of Interest:
+### 🔹 Areas of Interest
+- Web Development  
+- Internet of Things (IoT)  
+- Automation & Embedded Systems  
+- Data-Driven Applications  
 
-Web Development
+---
 
-Internet of Things (IoT)
+## 💡 Current Projects
 
-Automation & Embedded Systems
+### 🔋 Solar-Powered Phone Charging Station
+An IoT-based project using **ESP32**, **Paytm UPI API**, and **Firebase** for automated payment-based charging control.
 
-Data-Driven Applications
+### ⚡ Wireless Charging of EV Vehicles Using Transformer Principle
+A B.Tech mini project focusing on efficient power transfer through **electromagnetic induction**.
 
-💡 Current Projects
+### 🎬 Movie Recommendation System
+A personalized recommendation system using **content-based filtering**, **CountVectorizer**, **cosine similarity**, and **TMDB API** for poster integration.
 
-🔋 Solar-Powered Phone Charging Station
-An IoT-based project using ESP32, Paytm UPI API, and Firebase for automated payment-based charging control.
+---
 
-⚡ Wireless Charging of EV Vehicles Using Transformer Principle
-B.Tech mini project focusing on efficient power transfer through electromagnetic induction.
+## 🎯 Goals
 
-🎬 Movie Recommendation System
-A personalized recommendation app using content-based filtering, CountVectorizer, cosine similarity, and TMDb API for poster integration.
+- Strengthen my skills in full-stack web development and IoT applications  
+- Build impactful projects focused on sustainability and technology for good  
+- Secure a role in a dynamic tech company that values innovation and collaboration  
 
-🎯 Goals
+---
 
-Strengthen my skills in full-stack web development and IoT applications.
+## 📚 Ongoing Learning
 
-Build impactful projects with a focus on sustainability and technology for good.
+- **Amazon Future Engineer Bootcamp (Phase 2)** – Strengthening DSA and Java foundations  
+- Exploring AI applications in IoT systems  
 
-Secure a position in a dynamic tech company that values innovation and collaboration.
+---
 
-📚 Ongoing Learning
+## 📫 Connect With Me
 
-Amazon Future Engineer Bootcamp (Phase 2) – Strengthening DSA and Java foundations.
+- 💼 **LinkedIn:** vyshnavireddyduggu  
+- 💻 **GitHub:** https://github.com/Vyshnavireddyduggu/Vyshnavireddyduggu  
+- ✉️ **Email:** dugguvyshnavireddy@gmail.com  
 
-Exploring AI applications in IoT systems.
+---
 
-📫 Connect With Me
-
-💼 LinkedIn
-vyshnavireddyduggu
-
-💻 GitHub
-
-✉️ dugguvyshnavireddy@gmail.com
-
-⭐ “Code. Create. Contribute.”
+⭐ *“Code. Create. Contribute.”*
